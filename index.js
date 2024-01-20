@@ -11,5 +11,5 @@ app.use('/', routes.transactions);
 
 
 app.listen(port, () => {
-  console.log(`La aplicación está escuchando en http://localhost:${port}`);
+  console.log(`Está escuchando en http://localhost:${port}`);
 });
